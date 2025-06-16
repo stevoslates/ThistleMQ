@@ -1,4 +1,4 @@
-# ThistleMQ - Lightweight Pub/Sub Messaage Broker in C++
+# ThistleMQ - Lightweight Pub/Sub Message Broker in C++
 
 ## Overview
 ThistleMQ is a C++ implemented message broker, currently allowing:
