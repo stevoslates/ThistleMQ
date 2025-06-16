@@ -1,6 +1,6 @@
 /build
 /boosttests
-
+/.vscode
 .DS_Store
 
 # Boost build artifacts if any
