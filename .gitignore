@@ -1,0 +1,8 @@
+/build
+/boosttests
+
+.DS_Store
+
+# Boost build artifacts if any
+boost-build.jam
+bin.v2/
